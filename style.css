@@ -11,3 +11,6 @@ body{
     background-image: url(https://symbols.vn/wp-content/uploads/2022/01/Hinh-Anime-cac-nhan-vat-Naruto-ngau-loi.png);
     color : white;
 }
+img {
+    transition : 1.5s;
+}
