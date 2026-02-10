@@ -1,0 +1,13 @@
+.opa:checked ~ img {
+    opacity: 0.5;
+}
+.visibi:checked ~ img {
+    visibility: hidden;
+}
+.dis:checked ~ img {
+    display: none;
+}
+body{
+    background-image: url(https://symbols.vn/wp-content/uploads/2022/01/Hinh-Anime-cac-nhan-vat-Naruto-ngau-loi.png);
+    color : white;
+}
