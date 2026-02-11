@@ -14,3 +14,14 @@ body{
 img {
     transition : 1.5s;
 }
+p span {
+    color : yellow;
+    font-weight : bold;
+}
+ul > li {
+    color : red;
+    font-size : 20px;
+}
+div.test > h6 {
+    color: red;
+}
