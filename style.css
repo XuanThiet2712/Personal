@@ -25,3 +25,15 @@ ul > li {
 div.test > h6 {
     color: red;
 }
+p + .test {
+    color : green;
+    font-size : 20px;
+}
+div ~ p {
+    color : blue;
+    font-size : 18px;
+}
+
+[href] {
+    color : orange;
+}
