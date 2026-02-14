@@ -37,3 +37,7 @@ div ~ p {
 [href] {
     color : orange;
 }
+a:visited {
+    background-color: beige;
+    color : red;
+}
