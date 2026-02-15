@@ -41,3 +41,9 @@ a:visited {
     background-color: beige;
     color : red;
 }
+
+body{
+    margin : 0 auto ;
+    width : 1000px;
+    text-align: center;
+}
